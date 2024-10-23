@@ -1,0 +1,12 @@
+Personal Cell | North | Hallway | 1 | Cell Door
+Hallway | South | Personal Cell |
+Hallway | East | Guards Office |
+Guards Office | West | Hallway | 2 | Guards Door
+Hallway | West | Courtyard |
+Courtyard | East | Hallway |
+Courtyard | North | Dining Hall |
+Dining Hall | South | Courtyard |
+Courtyard | South | Gym |
+Gym | North | Courtyard |
+Courtyard | West | Freedom |
+Freedom | East | Courtyard | 3 | Main Exit Gate
